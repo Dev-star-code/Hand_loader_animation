@@ -2,7 +2,7 @@
 
 This project show cases a hand loader animation built using only HTML and CSS. It's a part of the CodePanda YouTube channel series, where we explore creative and beginner-friendly front-end web projects.
 
-* Join our whatsapp channel for daily updates link in youtube channel bio
+* Join our whatsapp channel for daily updates link in bio
   
 ## 🧰 Technologies Used
 HTML
